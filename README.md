@@ -21,16 +21,16 @@ Soy estudiante de ciencias en computación de Universidad de Chile.
 <br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pablo-badilla-torrealba-473b2315b/">
+    <a href="">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:pbadilla.torrealba@gmail.com">
+    <a href="">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://raw.githubusercontent.com/pbadillatorrealba/pbadillatorrealba/refs/heads/master/public/cv_en.pdf">
+    <a href="">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
     </a>
-    <a href="https://raw.githubusercontent.com/pbadillatorrealba/pbadillatorrealba/refs/heads/master/public/cv_es.pdf">
+    <a href="">
         <img src="https://img.shields.io/badge/Resume_in_Spanish-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
